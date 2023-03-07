@@ -1,4 +1,4 @@
-# Fiter Cars
+# Frases Random
 <div align="center" width="50">
     <img src="./src/assets/bg.png" width="75%"/>
 </div><br/>
@@ -39,4 +39,3 @@ Si quieres contactarme puedes escribirme a nieves.diego0426@gmail.com 👍.
 <div align="right" width="50">
     <img src="./src/assets/logo_secondary.webp" width="15%"/>
 </div>
-# React-Frases-Random--
