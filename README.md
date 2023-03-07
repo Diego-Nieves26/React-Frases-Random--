@@ -14,7 +14,7 @@ Esta aplicacion muestra frases ramdom cada vez que el usuario presione el boton.
 
 ## Link
 
-- https://elaborate-stroopwafel-f64577.netlify.app
+- https://peppy-jalebi-89e2bc.netlify.app/
 
 ## Lenguajes o Herramientas
 
